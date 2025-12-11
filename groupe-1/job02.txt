@@ -1,0 +1,3 @@
+echo "Hello, World!" > yolo3.md
+chmod u=w,g=rx,o=rw yolo3.md
+touch -t 202502030528 yolo3.md
